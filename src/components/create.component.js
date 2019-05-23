@@ -47,7 +47,7 @@ onSubmit(e) {
               <h3>Add New Contact</h3>
               <form>
                 <div className="form-group">
-                  <label>Contact Name: </label>
+                  <label>Name: </label>
                   <input
                    type="text" 
                    className="form-control"
